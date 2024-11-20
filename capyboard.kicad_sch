@@ -1,0 +1,241 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "91ae8aec-3e61-462c-ae17-f680cfcd259d")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 87.63 101.6)
+		(size 34.29 35.56)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "04263e73-b8b3-4e0d-827c-2d667c0ab66b")
+		(property "Sheetname" "CP2102N"
+			(at 87.63 100.8884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "cp2102n.kicad_sch"
+			(at 87.63 137.7446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "esp32devboard"
+				(path "/91ae8aec-3e61-462c-ae17-f680cfcd259d"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 127 101.6)
+		(size 34.29 35.56)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "218a4751-8dbe-492e-8fde-3065e8f8ed17")
+		(property "Sheetname" "AUTO_PROGRAM"
+			(at 127 100.8884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "auto_program.kicad_sch"
+			(at 127 137.7446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "esp32devboard"
+				(path "/91ae8aec-3e61-462c-ae17-f680cfcd259d"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 166.37 60.96)
+		(size 34.29 35.56)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "5955d98b-83c2-452f-b8a0-5b4887e5999b")
+		(property "Sheetname" "PINS"
+			(at 166.37 60.2484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "pins.kicad_sch"
+			(at 166.37 97.1046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "esp32devboard"
+				(path "/91ae8aec-3e61-462c-ae17-f680cfcd259d"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 87.63 60.96)
+		(size 34.29 35.56)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "6df15ec6-5f5d-4382-b504-c50b128eb39f")
+		(property "Sheetname" "USB_C"
+			(at 87.63 60.2484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "usb_c.kicad_sch"
+			(at 87.63 97.1046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "esp32devboard"
+				(path "/91ae8aec-3e61-462c-ae17-f680cfcd259d"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 127 60.96)
+		(size 34.29 35.56)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "872b113f-8b8f-4e83-b73b-13d5a145e2d3")
+		(property "Sheetname" "ESP_MODULE"
+			(at 127 60.2484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "esp_module.kicad_sch"
+			(at 127 97.1046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "esp32devboard"
+				(path "/91ae8aec-3e61-462c-ae17-f680cfcd259d"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 166.37 101.6)
+		(size 34.29 35.56)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "dec78ca7-f143-41fc-9999-c78a0e03167f")
+		(property "Sheetname" "LVR"
+			(at 166.37 100.8884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "lvr.kicad_sch"
+			(at 166.37 137.7446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "esp32devboard"
+				(path "/91ae8aec-3e61-462c-ae17-f680cfcd259d"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)
